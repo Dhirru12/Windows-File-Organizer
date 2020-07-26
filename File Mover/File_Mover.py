@@ -10,7 +10,6 @@ print('Proccess may take awhile, please stand by...')
 sourcepath='Your path here'
 #Example: "C:\\Users\\coolguy\\Downloads\\"
 ############################################################
-
 sourcefiles = os.listdir(sourcepath)
 destinationpath = sourcepath
 
